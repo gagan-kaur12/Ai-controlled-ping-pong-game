@@ -1,0 +1,32 @@
+.heading
+{
+  width:80%;
+  text-align: left;
+  
+
+}
+ .headng h1{
+    color:bisque;
+    display :inline;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-variant: inherit;
+  font-weight: bolder;
+}
+.heading button {
+    float :right;
+    border :1px solid wheat;
+}
+.modal-dialog{
+    width :60%;
+}
+video{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding :  25px;
+}
+h4{
+    background-color: azure;
+    line-height: 2;
+    margin : 0px
+}
